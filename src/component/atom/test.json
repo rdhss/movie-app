@@ -1,0 +1,36 @@
+{
+    "Title": "The Garfield Movie",
+    "Year": "2024",
+    "Rated": "PG",
+    "Released": "24 May 2024",
+    "Runtime": "101 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Mark Dindal",
+    "Writer": "Paul A. Kaplan, Mark Torgove, David Reynolds",
+    "Actors": "Chris Pratt, Samuel L. Jackson, Hannah Waddingham",
+    "Plot": "After Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
+    "Language": "English",
+    "Country": "United States, United Kingdom, Hong Kong",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDdlNTIwNjYtNzVhNS00MGVmLTk1ZGYtZmZiMjhiMmQ1ZjkwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "9,697",
+    "imdbID": "tt5779228",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$91,065,603",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
